@@ -5,20 +5,20 @@ Microservices to provide APIs for a real estate social network application
 [Youtube Video Link](https://www.youtube.com/watch?v=M8AfR5YzYrY)
 
 # Microservices architecture
-![microservices](assets/microservices-architecture.png)
+[https://github.com/Social-network-application/Social-Network-API/blob/main/assets/microservices-architecture.png]
 
 # UI
 ## Login
-![microservices](assets/login.png)
+[https://github.com/Social-network-application/Social-Network-API/raw/main/assets/login.png]
 
 ## Home
-![microservices](assets/homepage1.png)
+[https://github.com/Social-network-application/Social-Network-API/blob/main/assets/homepage1.png]
 
 ## Search by drawing on map
-![microservices](assets/search-by-draw.png)
+[https://github.com/Social-network-application/Social-Network-API/raw/main/assets/search-by-draw.png]
 
 ## Create post
-![microservices](assets/create-post.png)
+[https://github.com/Social-network-application/Social-Network-API/raw/main/assets/create-post.png]
 
 ## Chat
-![microservices](assets/chat.png)
+[https://github.com/Social-network-application/Social-Network-API/raw/main/assets/chat.png]
